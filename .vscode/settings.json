@@ -1,0 +1,13 @@
+{
+    "idf.port": "/dev/ttyUSB0",
+    "files.associations": {
+        "cnc_wifi.h": "c",
+        "esp_http_server.h": "c",
+        "esp_vfs_fat.h": "c",
+        "task.h": "c",
+        "freertos.h": "c",
+        "event_groups.h": "c",
+        "projdefs.h": "c",
+        "semphr.h": "c"
+    }
+}
